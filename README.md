@@ -23,7 +23,7 @@ pnpm run build # Build the Website
 byconity.github.io/
 ├── community/ # English pages for the community/* routes
 │   ├── category-1
-│   │   ├── assets/ # Images used in category-1
+│   │   ├── assets/ # Images used in category-1   (存储图片)   
 │   │   ├── _category_.json # Metadata for category-1
 │   │   └──doc-1.md
 │   ├── become-maintainer.mdx
