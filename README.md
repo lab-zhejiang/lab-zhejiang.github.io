@@ -49,9 +49,10 @@ byconity.github.io/
 ├── versioned_sidebars/
 │   └── version-0.2.0-sidebars.json # Version 0.2.0 English sidebar
 │
-├── blog/ # English blogs, use kebab-case
+├── blog/ # English blogs, use kebab-case（最近的博客，最新的在前面）
 │   ├── 2021-01-01-happy-new-year.md
 │   └── 2021-02-14-valentines-day.md
+│   └──authors.yml       #作者的信息
 │
 ├── i18n/
 │   └── zh-CN/
