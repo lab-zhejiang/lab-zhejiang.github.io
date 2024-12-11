@@ -18,6 +18,14 @@
         <category label="tag2" term="tag2"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Add Recent posts]]></title>
+        <id>https://byconity.github.io/zh-cn/blog/test</id>
+        <link href="https://byconity.github.io/zh-cn/blog/test"/>
+        <updated>2024-12-10T00:00:00.000Z</updated>
+        <category label="tag1" term="tag1"/>
+        <category label="tag2" term="tag2"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ByConity ELT原理详解]]></title>
         <id>https://byconity.github.io/zh-cn/blog/byconity-elt</id>
         <link href="https://byconity.github.io/zh-cn/blog/byconity-elt"/>

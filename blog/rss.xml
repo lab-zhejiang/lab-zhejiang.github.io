@@ -19,6 +19,14 @@
             <category>tag2</category>
         </item>
         <item>
+            <title><![CDATA[Add Recent posts]]></title>
+            <link>https://byconity.github.io/blog/test</link>
+            <guid>https://byconity.github.io/blog/test</guid>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+            <category>tag1</category>
+            <category>tag2</category>
+        </item>
+        <item>
             <title><![CDATA[Detailed Explanation of ByConity ELT Principles]]></title>
             <link>https://byconity.github.io/blog/byconity-elt</link>
             <guid>https://byconity.github.io/blog/byconity-elt</guid>
