@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://byconity.github.io/blog</id>
     <title>ByConity Blog</title>
-    <updated>2023-09-10T00:00:00.000Z</updated>
+    <updated>2024-12-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://byconity.github.io/blog"/>
     <subtitle>ByConity Blog</subtitle>
     <icon>https://byconity.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[index]]></title>
+        <id>https://byconity.github.io/blog/2024/12/10/index</id>
+        <link href="https://byconity.github.io/blog/2024/12/10/index"/>
+        <updated>2024-12-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[slug: byconity-elt]]></summary>
+        <content type="html"><![CDATA[<p>slug: byconity-elt</p><p>date: 2024-12-10</p><p>title: Add Recent posts</p><p>tags: <!-- -->[tag1, tag2]</p><p>keywords: <!-- -->["Test"]</p><hr><h1>Test</h1>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detailed Explanation of ByConity ELT Principles]]></title>
         <id>https://byconity.github.io/blog/byconity-elt</id>
