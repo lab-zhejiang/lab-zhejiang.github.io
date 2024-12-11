@@ -3,7 +3,7 @@ slug: template
 date: 2024-12-10
 title: template
 tags: [tag1, tag2]
-keywords: ["Test"]
+keywords: ["template"]
 ---
 
 # template
