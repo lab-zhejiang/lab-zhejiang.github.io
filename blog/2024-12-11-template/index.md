@@ -1,6 +1,6 @@
 ---
 slug: template
-date: 2024-12-10
+date: 2024-12-11
 title: template
 tags: [tag1, tag2]
 keywords: ["Test"]
@@ -44,7 +44,7 @@ sszx24@zhejianglab.org
 仓库(lab-zhejiang.github.io) --> blog --> 2024-12-11-template --> index.md --> 下载
 ```
 
-![下载模板示例](https://github.com/lab-zhejiang/lab-zhejiang.github.io/blob/main/blog/2024-12-11-template/下载模板示例.png)
+![下载模板示例](./下载模板示例.png)
 
 ```bash
 ## 编辑下载的文件
