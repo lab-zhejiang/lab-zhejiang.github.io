@@ -4,10 +4,18 @@
         <title>ByConity Blog</title>
         <link>https://byconity.github.io/blog</link>
         <description>ByConity Blog</description>
-        <lastBuildDate>Sun, 10 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[test]]></title>
+            <link>https://byconity.github.io/blog/2024/12/10/test</link>
+            <guid>https://byconity.github.io/blog/2024/12/10/test</guid>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[slug: byconity-elt]]></description>
+            <content:encoded><![CDATA[<p>slug: byconity-elt</p><p>date: 2024-12-10</p><p>title: Add Recent posts</p><p>tags: <!-- -->[tag1, tag2]</p><p>keywords: <!-- -->["Test"]</p><hr><h1>Test</h1>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Detailed Explanation of ByConity ELT Principles]]></title>
             <link>https://byconity.github.io/blog/byconity-elt</link>
