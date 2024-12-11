@@ -65,3 +65,4 @@ keywords: ["Test"] # 定文档或博客文章的元数据关键词，关键词�
 
 ![下载模板示例](https://github.com/lab-zhejiang/lab-zhejiang.github.io/blob/main/blog/2024-12-11-template/上传文件示例.png)
 
+## 通知管理员审批上传文件的请求
