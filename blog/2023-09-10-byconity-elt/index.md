@@ -3,6 +3,7 @@ slug: byconity-elt
 title: Detailed Explanation of ByConity ELT Principles
 authors: [WangTaoTheTonic, tigerwangyb]
 tags: [video introduction, docusaurus]
+sidebar_position: 1
 ---
 
 # Detailed Explanation of ByConity ELT Principles
