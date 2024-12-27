@@ -202,7 +202,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ByteDance.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ZheJiangLab.`,
       },
       prism: {
         theme: lightCodeTheme,
