@@ -47,18 +47,17 @@
 }
 
 .navbar__inner {
-  max-width: 1280px;
-  margin: 0 auto;
+  margin: 0 20px;
 }
 
 .navbar__item {
-  font-size: 20px;
-  padding-left: 22px;
-  padding-right: 22px;
+  font-size: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .navbar__brand {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 .navbar__brand + .navbar__item {
@@ -66,7 +65,7 @@
 }
 
 .navbar .dropdown__link {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .footer--dark {
