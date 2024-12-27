@@ -145,10 +145,10 @@ const config = {
       },
       footer: {
         style: 'dark',
-        logo: {
-          alt: 'ByConity',
-          src: 'img/footer-logo.svg',
-        },
+        // logo: {
+        //   alt: 'ByConity',
+        //   src: 'img/footer-logo.svg',
+        // },
         links: [
           {
             title: 'Docs',
