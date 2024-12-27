@@ -324,9 +324,9 @@
   "title": {
     "message": "National Artificial Intelligence Public Computing Power Open Innovation Platform"
   },
-  // "tagline": {
-  //   "message": "Cloud native big data analysis engine"
-  // },
+  "tagline": {
+    "message": " "
+  },
   "homePage.communitySection.github.title": {
     "message": "Github"
   },
