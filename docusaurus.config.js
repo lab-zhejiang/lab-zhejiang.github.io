@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ZheJiang Lab',
-  tagline: '云原生大数据分析引擎',
+  title: '国家人工智能公共算力开放创新平台',
+  tagline: 'ZheJiangLab',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
