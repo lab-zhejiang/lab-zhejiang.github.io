@@ -12,8 +12,9 @@ function HeroBannerSection() {
   return (
     <header className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>{title}</h1>
-
+        <h1 className={styles.title}>
+          <Translate id="title" />
+        </h1>
         <div className={styles.tagLine}>
           <Translate id="tagline" />
         </div>
